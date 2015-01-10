@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1416826936 source:/home/studente/Scrivania/RSA/main.cpp
+	<iostream>
+	<cmath>
+	"RSA.h"
+
+1416824848 /home/studente/Scrivania/RSA/RSA.h
+	<iostream>
+	<list>
+	<algorithm>
+	"Keys.h"
+
+1416825953 /home/studente/Scrivania/RSA/Keys.h
+
+1418639334 source:/home/studente/Scrivania/Lorenzo Licalzi/RSA/main.cpp
+	<iostream>
+	<cmath>
+	"RSA.h"
+
+1418639513 /home/studente/Scrivania/Lorenzo Licalzi/RSA/RSA.h
+	<iostream>
+	<list>
+	<algorithm>
+	"Keys.h"
+	<string>
+
+1416825953 /home/studente/Scrivania/Lorenzo Licalzi/RSA/Keys.h
+
